@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner/term
+END
+AppTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/term/AppTerm.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/term/Term.java
+END
+IndividualTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/term/IndividualTerm.java
+END
+RoleTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner/term/RoleTerm.java
+END
+NegationTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/term/NegationTerm.java
+END

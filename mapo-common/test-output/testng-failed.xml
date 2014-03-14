@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [mapo-common]" junit="false" annotations="JDK">
+  <test name="map.common.parser.impl.ALCParserTester(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="map.common.parser.impl.ALCParserTester">
+        <methods>
+          <include name="simpleConceptTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,36 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="mapo-common">
+    <groups>
+    </groups>
+    <test name="map.common.parser.impl.ALCParserTester">
+      <class name="map.common.parser.impl.ALCParserTester">
+        <test-method status="PASS" signature="universalRestrictonConceptTest()" name="universalRestrictonConceptTest" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest8()" name="complexConceptTest8" duration-ms="13" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest7()" name="complexConceptTest7" duration-ms="4" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="negatedSimpleConceptTest()" name="negatedSimpleConceptTest" duration-ms="0" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest2()" name="complexConceptTest2" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest()" name="complexConceptTest" duration-ms="5" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="simpleConceptTest()" name="simpleConceptTest" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest5()" name="complexConceptTest5" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest3()" name="complexConceptTest3" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="existentialRestrictonConceptTest()" name="existentialRestrictonConceptTest" duration-ms="2" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest4()" name="complexConceptTest4" duration-ms="1" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+        <test-method status="PASS" signature="complexConceptTest6()" name="complexConceptTest6" duration-ms="2" started-at="2010-05-20T14:19:43Z" finished-at="2010-05-20T14:19:43Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mapo/!svn/ver/12/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/reducer
+END
+PSeudoModelBuilderReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mapo/!svn/ver/29/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/reducer/PSeudoModelBuilderReducer.java
+END
+TripleEncodingReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mapo/!svn/ver/27/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/reducer/TripleEncodingReducer.java
+END
+OWLImportReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mapo/!svn/ver/29/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/reducer/OWLImportReducer.java
+END

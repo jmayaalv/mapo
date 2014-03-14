@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/utils
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mapo/!svn/ver/4/trunk/mapo/src/main/java/mapo/utils/FileUtils.java
+END
+MapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mapo/!svn/ver/7/trunk/mapo/src/main/java/mapo/utils/MapUtils.java
+END
+TripleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/utils/TripleUtils.java
+END

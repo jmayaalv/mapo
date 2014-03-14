@@ -1,0 +1,16 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="mapo">
+    <groups>
+    </groups>
+    <test name="mapo.services.impl.TableauReasonerTest">
+      <class name="mapo.services.impl.TableauReasonerTest">
+        <test-method status="PASS" signature="existentialTest()" name="existentialTest" duration-ms="14" started-at="2010-03-30T11:15:25Z" finished-at="2010-03-30T11:15:25Z">
+        </test-method>
+        <test-method status="PASS" signature="reasonerTest()" name="reasonerTest" duration-ms="1" started-at="2010-03-30T11:15:25Z" finished-at="2010-03-30T11:15:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

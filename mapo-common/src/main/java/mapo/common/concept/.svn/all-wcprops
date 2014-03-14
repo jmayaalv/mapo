@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mapo/!svn/ver/19/trunk/mapo/mapo-common/src/main/java/mapo/common/concept
+END
+RestrictionConcept.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/concept/RestrictionConcept.java
+END
+ComplexConcept.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/concept/ComplexConcept.java
+END
+Concept.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/concept/Concept.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mapo/!svn/ver/28/trunk/mapo/mapo-common/src/main/java/mapo/common/concept/Expression.java
+END
+SimpleConcept.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/concept/SimpleConcept.java
+END

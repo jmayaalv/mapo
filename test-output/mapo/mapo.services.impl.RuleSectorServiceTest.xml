@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mapo.services.impl.RuleSectorServiceTest" failures="0" tests="1" time="0.09" errors="0">
+  <properties/>
+  <testcase name="ruleSelectionTest" time="0.026" classname="mapo.services.impl.RuleSectorServiceTest"/>
+</testsuite>

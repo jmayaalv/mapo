@@ -1,0 +1,2 @@
+java.util.Locale ch  = java.util.Locale.CHINESE;
+System.out.print(ch.getLanguage());

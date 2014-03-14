@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [mapo]" junit="false" annotations="JDK">
+  <test name="mapo.services.impl.TableauReasonerTest(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="mapo.services.impl.TableauReasonerTest">
+        <methods>
+          <include name="existentialTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

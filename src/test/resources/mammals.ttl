@@ -1,0 +1,57 @@
+@prefix ex: <http://example.org#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+
+ex:Mammal rdf:type owl:Class.
+
+ex:Human rdf:type owl:Class;
+         rdfs:subClassOf ex:Mammal.
+
+ex:Canine rdf:type owl:Class;
+          rdfs:subClassOf ex:Mammal;
+          owl:equivalentClass [
+            rdf:type owl:Restriction;
+            owl:onProperty ex:breed;
+            owl:someValuesFrom ex:Breed
+            ].
+
+ex:PetOfRyan rdf:type owl:Class;
+              owl:intersectionOf (
+                ex:Mammal
+                [
+                  rdf:type owl:Restriction;
+                  owl:onProperty ex:hasOwner;
+                  owl:hasValue ex:Ryan
+                ]
+              ).
+
+ex:Breed rdf:type owl:Class.
+ex:LargeBreed rdf:type owl:Class;
+              rdfs:subClassOf ex:Breed.
+ex:SmallBreed rdf:type owl:Class;
+              rdfs:subClassOf ex:Breed.
+
+ex:name rdf:type owl:DatatypeProperty.
+ex:registeredName rdf:type owl:DatatypeProperty;
+                  rdfs:subPropertyOf ex:name.
+ex:breed rdf:type owl:ObjectProperty.
+ex:hasOwner rdf:type owl:ObjectProperty.
+ex:owns rdf:type owl:ObjectProperty;
+        owl:inverseOf ex:hasOwner.
+
+ex:GoldenRetriever rdf:type ex:LargeBreed.
+ex:Chihuahua rdf:type ex:SmallBreed.
+
+ex:Ryan rdf:type ex:Human;
+        ex:name "Ryan Blace";
+        ex:owns ex:Daisy.
+
+ex:Daisy rdf:type ex:Canine;
+         ex:name "Daisy";
+         ex:registeredName "Morning Daisy Bathed in Sunshine";
+         ex:breed ex:GoldenRetriever.
+
+ex:Amber rdf:type ex:Mammal;
+         ex:name "Amber";
+         ex:breed ex:GoldenRetriever.

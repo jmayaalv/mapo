@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mapo/!svn/ver/26/trunk/mapo/mapo-reasoner/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/.classpath
+END

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="map.common.parser.impl.ALCParserTester" failures="0" tests="12" time="0.06" errors="0">
+  <properties/>
+  <testcase name="complexConceptTest8" time="0.013" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest" time="0.0050" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest6" time="0.0020" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest7" time="0.0040" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest4" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="simpleConceptTest" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest5" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest2" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="complexConceptTest3" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="negatedSimpleConceptTest" time="0.0" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="universalRestrictonConceptTest" time="0.0010" classname="map.common.parser.impl.ALCParserTester"/>
+  <testcase name="existentialRestrictonConceptTest" time="0.0020" classname="map.common.parser.impl.ALCParserTester"/>
+</testsuite>

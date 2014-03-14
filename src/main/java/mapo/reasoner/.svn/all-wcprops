@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner
+END
+TableauTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner/TableauTree.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/Visitor.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/Rule.java
+END
+TableauModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/TableauModel.java
+END
+Visitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/Visitable.java
+END
+CompletionRulesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner/CompletionRulesVisitor.java
+END

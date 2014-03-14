@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence
+END
+Axiom.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence/Axiom.java
+END
+Db.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence/Db.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence/Edge.java
+END
+Individual.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence/Individual.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/persistence/Role.java
+END

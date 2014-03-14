@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="mapo-reasoner">
+    <groups>
+    </groups>
+    <test name="mapo.reasoner.impl.ALCTableauReasonerTester">
+      <class name="mapo.reasoner.impl.ALCTableauReasonerTester">
+        <test-method status="PASS" signature="alcConjunctionExpansionTest()" name="alcConjunctionExpansionTest" duration-ms="63" started-at="2010-06-03T15:39:41Z" finished-at="2010-06-03T15:39:41Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

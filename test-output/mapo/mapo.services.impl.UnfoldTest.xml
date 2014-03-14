@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mapo.services.impl.UnfoldTest" failures="0" tests="1" time="4124.957" errors="0">
+  <properties/>
+  <testcase name="unfold" time="4124.919" classname="mapo.services.impl.UnfoldTest"/>
+</testsuite>

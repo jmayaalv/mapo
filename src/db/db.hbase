@@ -1,0 +1,6 @@
+create 'dictionary','data' 
+create 'tbox','data'
+create 'abox_role_assertion','data'
+create 'abox_concept_assertion','data'
+create 'individual','data'
+create 'individual_pseudo_model','data'

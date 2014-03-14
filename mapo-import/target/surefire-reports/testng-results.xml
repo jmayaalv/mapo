@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="mapo.test.RenderTest">
+        <test-method status="PASS" signature="renderTest()" name="renderTest" duration-ms="2421" started-at="2010-05-21T11:11:58Z" finished-at="2010-05-21T11:12:00Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

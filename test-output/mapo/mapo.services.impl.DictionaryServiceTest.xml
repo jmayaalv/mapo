@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mapo.services.impl.DictionaryServiceTest" failures="0" tests="2" time="0.497" errors="0">
+  <properties/>
+  <testcase name="getId" time="0.406" classname="mapo.services.impl.DictionaryServiceTest"/>
+  <testcase name="getValue" time="0.075" classname="mapo.services.impl.DictionaryServiceTest"/>
+</testsuite>

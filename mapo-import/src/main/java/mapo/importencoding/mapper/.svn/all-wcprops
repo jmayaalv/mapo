@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mapo/!svn/ver/9/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/mapper
+END
+TripleIndexingMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mapo/!svn/ver/25/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/mapper/TripleIndexingMapper.java
+END
+OWLImportMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mapo/!svn/ver/28/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/mapper/OWLImportMapper.java
+END
+TripleEncodingMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mapo/!svn/ver/25/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/mapper/TripleEncodingMapper.java
+END
+PSeudoModelBuilderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mapo/!svn/ver/29/trunk/mapo/mapo-import/src/main/java/mapo/importencoding/mapper/PSeudoModelBuilderMapper.java
+END

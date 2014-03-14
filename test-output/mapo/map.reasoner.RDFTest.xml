@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="map.reasoner.RDFTest" failures="0" tests="1" time="1.186" errors="0">
+  <properties/>
+  <testcase name="loadRdf" time="1.175" classname="map.reasoner.RDFTest"/>
+</testsuite>

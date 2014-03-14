@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mapo/!svn/ver/14/trunk/mapo/mapo-common/src/main/java/mapo/common/table
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mapo/!svn/ver/12/trunk/mapo/mapo-common/src/main/java/mapo/common/table/Table.java
+END
+TableCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/TableCreator.java
+END
+IndividualPseudoModelTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/table/IndividualPseudoModelTable.java
+END
+ABoxRoleAssertionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/ABoxRoleAssertionTable.java
+END
+ABoxConceptAssertionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/ABoxConceptAssertionTable.java
+END
+DictionaryTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/DictionaryTable.java
+END
+TBoxTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/TBoxTable.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mapo/!svn/ver/12/trunk/mapo/mapo-common/src/main/java/mapo/common/table/Column.java
+END
+IndividualTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/table/IndividualTable.java
+END

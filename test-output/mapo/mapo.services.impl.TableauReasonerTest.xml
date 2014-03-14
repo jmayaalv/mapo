@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mapo.services.impl.TableauReasonerTest" failures="0" tests="2" time="0.031" errors="0">
+  <properties/>
+  <testcase name="existentialTest" time="0.014" classname="mapo.services.impl.TableauReasonerTest"/>
+  <testcase name="reasonerTest" time="0.0010" classname="mapo.services.impl.TableauReasonerTest"/>
+</testsuite>

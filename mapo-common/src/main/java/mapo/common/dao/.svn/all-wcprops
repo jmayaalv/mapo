@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mapo/!svn/ver/14/trunk/mapo/mapo-common/src/main/java/mapo/common/dao
+END
+IndividualPseudoModelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mapo/!svn/ver/22/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/IndividualPseudoModelDao.java
+END
+DictionaryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/DictionaryDao.java
+END
+TBoxDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/TBoxDao.java
+END
+IndividualDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mapo/!svn/ver/27/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/IndividualDao.java
+END
+ABoxDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/ABoxDao.java
+END
+PSeudoModelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mapo/!svn/ver/29/trunk/mapo/mapo-common/src/main/java/mapo/common/dao/PSeudoModelDao.java
+END

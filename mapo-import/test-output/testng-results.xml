@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="mapo-import">
+    <groups>
+    </groups>
+    <test name="RenderTest">
+      <class name="RenderTest">
+        <test-method status="PASS" signature="renderTest()" name="renderTest" duration-ms="2339" started-at="2010-05-14T16:14:46Z" finished-at="2010-05-14T16:14:48Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,33 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 15
+/mapo/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/mapo/!svn/ver/19/trunk/mapo
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/mapo/!svn/ver/20/trunk/mapo/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mapo/!svn/ver/27/trunk/mapo/.project
+END
+Test.jpage
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mapo/!svn/ver/29/trunk/mapo/Test.jpage
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mapo/!svn/ver/3/trunk/mapo/.classpath
+END

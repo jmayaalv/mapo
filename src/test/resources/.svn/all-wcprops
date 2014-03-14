@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mapo/!svn/ver/3/trunk/mapo/src/test/resources
+END
+mammals.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mapo/!svn/ver/3/trunk/mapo/src/test/resources/mammals.ttl
+END
+univ-bench.owl.owl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mapo/!svn/ver/3/trunk/mapo/src/test/resources/univ-bench.owl.owl
+END

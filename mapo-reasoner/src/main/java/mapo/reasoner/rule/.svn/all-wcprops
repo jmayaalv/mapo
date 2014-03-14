@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mapo/!svn/ver/29/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/AbstractRule.java
+END
+DisjunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/DisjunctionRule.java
+END
+UniversalRestrictionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mapo/!svn/ver/29/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/UniversalRestrictionRule.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/Rule.java
+END
+LazyUnfoldRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mapo/!svn/ver/29/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/LazyUnfoldRule.java
+END
+ValueRestrictionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mapo/!svn/ver/20/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/ValueRestrictionRule.java
+END
+ConjunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mapo/!svn/ver/22/trunk/mapo/mapo-reasoner/src/main/java/mapo/reasoner/rule/ConjunctionRule.java
+END

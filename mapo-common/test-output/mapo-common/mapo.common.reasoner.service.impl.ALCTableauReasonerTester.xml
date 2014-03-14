@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mapo.common.reasoner.service.impl.ALCTableauReasonerTester" failures="0" tests="7" time="0.068" errors="0">
+  <properties/>
+  <testcase name="alcConjunctionExpansionTest" time="0.01" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcDisnjunctionExpansionTest" time="0.0040" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcComplexExpansionTest1" time="0.026" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcComplexExpansionTest2" time="0.0040" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcValueRestrictionExpansionTest" time="0.0020" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcUniveralRestrictionExpansionTest" time="0.0010" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+  <testcase name="alcComplexCrashTest" time="0.0020" classname="mapo.common.reasoner.service.impl.ALCTableauReasonerTester"/>
+</testsuite>

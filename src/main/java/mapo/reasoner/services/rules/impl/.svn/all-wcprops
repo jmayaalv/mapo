@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mapo/!svn/ver/9/trunk/mapo/src/main/java/mapo/reasoner/services/rules/impl
+END
+DisjunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/services/rules/impl/DisjunctionRule.java
+END
+ExistentialRestrictionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mapo/!svn/ver/25/trunk/mapo/src/main/java/mapo/reasoner/services/rules/impl/ExistentialRestrictionRule.java
+END
+ConjuctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mapo/!svn/ver/8/trunk/mapo/src/main/java/mapo/reasoner/services/rules/impl/ConjuctionRule.java
+END
